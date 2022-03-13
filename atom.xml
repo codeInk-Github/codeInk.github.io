@@ -3,11 +3,11 @@
   <title>codeInk寇墨</title>
   
   
-  <link href="http://codeink-github.github.io/interview/atom.xml" rel="self"/>
+  <link href="http://codeink-github.github.io/atom.xml" rel="self"/>
   
-  <link href="http://codeink-github.github.io/interview/"/>
+  <link href="http://codeink-github.github.io/"/>
   <updated>2022-03-13T15:55:42.795Z</updated>
-  <id>http://codeink-github.github.io/interview/</id>
+  <id>http://codeink-github.github.io/</id>
   
   <author>
     <name>codeInk</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>java面试汇总</title>
-    <link href="http://codeink-github.github.io/interview/2022/03/13/interview/"/>
-    <id>http://codeink-github.github.io/interview/2022/03/13/interview/</id>
+    <link href="http://codeink-github.github.io/2022/03/13/interview/"/>
+    <id>http://codeink-github.github.io/2022/03/13/interview/</id>
     <published>2022-03-13T15:32:44.529Z</published>
     <updated>2022-03-13T15:55:42.795Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://codeink-github.github.io/interview/2022/03/13/hello-world/"/>
-    <id>http://codeink-github.github.io/interview/2022/03/13/hello-world/</id>
+    <link href="http://codeink-github.github.io/2022/03/13/hello-world/"/>
+    <id>http://codeink-github.github.io/2022/03/13/hello-world/</id>
     <published>2022-03-13T15:17:44.250Z</published>
     <updated>2022-03-13T15:55:59.231Z</updated>
     
