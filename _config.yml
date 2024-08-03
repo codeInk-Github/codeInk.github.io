@@ -1,3 +1,71 @@
-remote_theme: sighingnow/jekyll-gitbook
 title: Codeink の 文档博客
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: sighingnow/jekyll-gitbook
+description: 见证寇墨的成长，并共同进步！
+
+longtitle:        Codeink Blog
+author:           codeInk
+email:            codeink2022@126.com
+description: >
+  Build Jekyll site with the GitBook style.
+version:          1.0
+gitbook_version:  3.2.3
+
+url:              'https://docs.codeink.host/'
+rss:              RSS
+
+toc:
+  enabled: true
+  h_min:   1
+  h_max:   3
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/codeink-miniicon.ico
+
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
+
+# Permalinks
+permalink:                /:categories/:year-:month-:title:output_ext
+
+# Disqus comments
+# disqushandler:            sighingnow
+
+exclude:
+  - _drafts
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
+
+ordered_collections:
+  - posts
+  - pages
+  - others
+
+page_width: 800px
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
