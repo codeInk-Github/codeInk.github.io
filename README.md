@@ -6,9 +6,9 @@ permalink: /
 
 # 欢迎来到寇墨的博客
 
+![AAAlogo_8](https://s2.loli.net/2024/08/04/fG4iV3J8Q5WrZvd.png)
 
 
-![book](https://s2.loli.net/2024/08/04/5hLmnPvdjJ4oVYt.webp)
 
 > "读书使人充实，唱歌使人快乐，电影使人感悟，旅游使人开阔。"
 
