@@ -1,9 +1,9 @@
 ---
 title: Design Draft
-author: Tao He
+author: CodeInk
 date: 2022-02-06
-category: Jekyll
+category: self
 layout: post
 ---
 
-This is an draft page.
+略略略

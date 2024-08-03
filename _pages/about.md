@@ -1,8 +1,8 @@
 ---
 title: About
-author: Tao He
+author: CodeInk
 date: 2022-02-04
-category: Jekyll
+category: about
 layout: post
 ---
 

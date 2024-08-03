@@ -1,11 +1,13 @@
 ---
 title: Contact
-author: Tao He
+author: CodeInk
 date: 2022-02-05
-category: Jekyll
+category: contact
 layout: post
 ---
 
 This is an contact page.
 
-codeink2022@126.com
+
+
+<a href="mailto:codeink2022@126.com">codeink2022@126.com</a>
