@@ -6,7 +6,7 @@ permalink: /
 
 # 欢迎来到寇墨的博客
 
-<img src="https://s2.loli.net/2024/08/04/fG4iV3J8Q5WrZvd.png" alt="AAAlogo_8" style="zoom:50%;text-align: center;" />
+<img src="https://s2.loli.net/2024/08/04/fG4iV3J8Q5WrZvd.png" alt="AAAlogo_8" style="zoom:50%;margin: auto;display: block;" />
 
 
 
