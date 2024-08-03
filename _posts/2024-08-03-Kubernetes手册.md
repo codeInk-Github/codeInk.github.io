@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "kubernates"
 date:   2024-08-01 18:27:14 -0400
-categories: jekyll update
+categories: middle
 ---
 
 
