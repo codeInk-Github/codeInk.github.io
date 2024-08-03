@@ -19,7 +19,7 @@ toc:
   h_max:   3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/codeink-miniicon.ico
+favicon_path:     https://docs.codeink.host/assets/gitbook/images/codeink-miniicon.ico
 
 # markdown render engine.
 markdown:         kramdown

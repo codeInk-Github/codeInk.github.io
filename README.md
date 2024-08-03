@@ -18,7 +18,7 @@ permalink: /
 
 
 
-![sing](https://s2.loli.net/2024/08/04/lo35RXvgkI7dGPm.webp)
+<img src="https://s2.loli.net/2024/08/04/lo35RXvgkI7dGPm.webp" alt="sing" style="zoom:80%;" />
 
 ### 我的兴趣爱好
 
@@ -27,7 +27,7 @@ permalink: /
 - **看电影**：电影是一种艺术形式，是生活的另一种呈现方式。
 - **旅游**：世界这么大，我想去看看，感受不同的风土人情。
 
-![旅游](https://example.com/travel.jpg)
+![sky](https://s2.loli.net/2024/08/04/I5hYpnNtsy7Cfc8.webp)
 
 ### 星座
 
@@ -39,7 +39,7 @@ permalink: /
 
 
 
-![library](https://s2.loli.net/2024/08/04/RDUQAC1faGLk6EF.webp)
+<img src="https://s2.loli.net/2024/08/04/RDUQAC1faGLk6EF.webp" alt="library" style="zoom:50%;" />
 
 > "学习是一条漫长的旅程，每一次的探索都是一次心灵的升华。"
 
