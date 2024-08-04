@@ -2,7 +2,7 @@
 layout: post
 title:  "kubernates笔记"
 date:   2024-08-01 18:27:14 -0400
-categories: middle
+category: middle
 ---
 
 
